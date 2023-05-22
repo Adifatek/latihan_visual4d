@@ -16,6 +16,15 @@ type
 
 var
   Form3: TForm3;
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 implementation
 
